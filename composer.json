@@ -1,0 +1,15 @@
+{
+    "name": "admin/move-nas-from-ftp",
+    "autoload": {
+        "psr-4": {
+            "Admin\\MoveNasFromFtp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mayuyu777",
+            "email": "sagnoynatalie@gmail.com"
+        }
+    ],
+    "require": {}
+}
